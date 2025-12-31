@@ -1,10 +1,12 @@
-'use client';
+import React from 'react';
 import { useEffect, useState } from 'react';
+import { useRouter } from 'next/router';
 import { useTranslation } from 'next-i18next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 import Layout from '@/components/layout/Layout';
 import { motion } from 'framer-motion';
-import axios from 'axios';
+import { api } from '@/lib/api';
+import { useAuth } from '@/lib/auth';
 import dayjs from 'dayjs';
 
 type HabitKey = 'salah' | 'quran' | 'dhikr' | 'charity' | 'fasting';
@@ -17,12 +19,12 @@ type Habit = {
 
 export default function PlannerPage() {
   const { t } = useTranslation('planner');
+  const router = useRouter();
+  const { isAuthenticated } = useAuth();
   const [habits, setHabits] = useState<Habit[]>([]);
   const [streak, setStreak] = useState(0);
   const [loading, setLoading] = useState(true);
   const [summary, setSummary] = useState<any>({});
-
-  const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api';
 
   const habitIcons: Record<HabitKey, string> = {
     salah: '🕌',
@@ -44,17 +46,14 @@ export default function PlannerPage() {
     setLoading(true);
     try {
       // Fetch habits
-      const habitsRes = await axios.get(`${API_BASE}/planner/habits`, {
-        headers: { 'x-user': 'demo' }
-      });
+      const habitsRes = await api.get('/planner/habits');
       setHabits(habitsRes.data.data || []);
 
       // Fetch stats
       const from = dayjs().subtract(30, 'day').format('YYYY-MM-DD');
       const to = dayjs().format('YYYY-MM-DD');
-      const statsRes = await axios.get(`${API_BASE}/planner/stats`, {
-        params: { from, to },
-        headers: { 'x-user': 'demo' }
+      const statsRes = await api.get('/planner/stats', {
+        params: { from, to }
       });
 
       setStreak(statsRes.data.data.streak || 0);
@@ -67,16 +66,17 @@ export default function PlannerPage() {
   };
 
   useEffect(() => {
+    // Redirect to login if not authenticated
+    if (!isAuthenticated()) {
+      router.push('/auth/login');
+      return;
+    }
     fetchData();
-  }, []);
+  }, [isAuthenticated, router]);
 
   const setTarget = async (key: HabitKey, targetPerDay: number) => {
     try {
-      await axios.post(
-        `${API_BASE}/planner/habits`,
-        { key, targetPerDay },
-        { headers: { 'x-user': 'demo' } }
-      );
+      await api.post('/planner/habits', { key, targetPerDay });
       await fetchData();
     } catch (error) {
       console.error('Set target error:', error);
@@ -85,11 +85,7 @@ export default function PlannerPage() {
 
   const logActivity = async (key: HabitKey) => {
     try {
-      await axios.post(
-        `${API_BASE}/planner/log`,
-        { key, value: 1 },
-        { headers: { 'x-user': 'demo' } }
-      );
+      await api.post('/planner/log', { key, value: 1 });
       await fetchData();
     } catch (error) {
       console.error('Log activity error:', error);
