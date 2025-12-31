@@ -1,0 +1,19 @@
+{
+  "prayerTimeTitle": "Prayer Times - Salah Schedule",
+  "prayerTimeDescription": "Get accurate prayer times based on your location with Qibla compass and mosque finder",
+  "prayerTimeHeading": "Prayer Times 360°",
+  "fajr": "Fajr",
+  "dhuhr": "Dhuhr",
+  "asr": "Asr",
+  "maghrib": "Maghrib",
+  "isha": "Isha",
+  "sunrise": "Sunrise",
+  "qiblaDirection": "Qibla Direction",
+  "compassHeading": "Qibla Compass",
+  "findMosques": "Find Nearby Mosques",
+  "hijriCalendar": "Hijri Calendar",
+  "islamicDate": "Islamic Date",
+  "changeLocation": "Change Location",
+  "calculationMethod": "Calculation Method",
+  "notifications": "Prayer Notifications"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "noor-server",
+  "version": "1.0.0",
+  "description": "Noor SuperApp Backend API",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js",
+    "test": "jest",
+    "seed": "node src/seeders/index.js",
+    "seed:donations": "node src/seeders/donationSeed.js",
+    "import:quran": "node src/scripts/importQuran.js",
+    "import:meta-tafsir": "node src/scripts/import-meta-tafsir.js",
+    "import:hadith": "node src/scripts/import-hadith.js",
+    "embeddings:hadith": "node src/scripts/build-hadith-embeddings.js"
+  },
+  "keywords": [
+    "islamic",
+    "api",
+    "backend"
+  ],
+  "author": "Noor SuperApp Team",
+  "license": "MIT",
+  "dependencies": {
+    "adhan": "^4.4.3",
+    "axios": "^1.6.5",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "morgan": "^1.10.0",
+    "openai": "^4.24.1",
+    "stripe": "^14.25.0",
+    "nodemailer": "^6.9.7",
+    "google-auth-library": "^9.14.2",
+    "apple-signin-auth": "^1.7.6",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

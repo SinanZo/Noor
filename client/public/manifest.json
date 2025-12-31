@@ -1,0 +1,42 @@
+{
+  "name": "Noor — Islamic SuperApp",
+  "short_name": "Noor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#009688",
+  "description": "Your Companion in Faith, Knowledge & Life",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "education", "productivity"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Quran Reader",
+      "short_name": "Quran",
+      "description": "Read and explore the Holy Quran",
+      "url": "/quran",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Prayer Times",
+      "short_name": "Prayer",
+      "description": "Get accurate prayer times",
+      "url": "/prayer",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

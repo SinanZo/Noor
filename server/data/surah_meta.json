@@ -1,0 +1,800 @@
+[
+  {
+    "surah": 1,
+    "nameAr": "الفاتحة",
+    "nameEn": "Al-Fātiḥah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 7
+  },
+  {
+    "surah": 2,
+    "nameAr": "البقرة",
+    "nameEn": "Al-Baqarah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 286
+  },
+  {
+    "surah": 3,
+    "nameAr": "آل عمران",
+    "nameEn": "Āl ʿImrān",
+    "revelationPlace": "Medinan",
+    "ayahCount": 200
+  },
+  {
+    "surah": 4,
+    "nameAr": "النساء",
+    "nameEn": "An-Nisā",
+    "revelationPlace": "Medinan",
+    "ayahCount": 176
+  },
+  {
+    "surah": 5,
+    "nameAr": "المائدة",
+    "nameEn": "Al-Māʾidah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 120
+  },
+  {
+    "surah": 6,
+    "nameAr": "الأنعام",
+    "nameEn": "Al-Anʿām",
+    "revelationPlace": "Meccan",
+    "ayahCount": 165
+  },
+  {
+    "surah": 7,
+    "nameAr": "الأعراف",
+    "nameEn": "Al-Aʿrāf",
+    "revelationPlace": "Meccan",
+    "ayahCount": 206
+  },
+  {
+    "surah": 8,
+    "nameAr": "الأنفال",
+    "nameEn": "Al-Anfāl",
+    "revelationPlace": "Medinan",
+    "ayahCount": 75
+  },
+  {
+    "surah": 9,
+    "nameAr": "التوبة",
+    "nameEn": "At-Tawbah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 129
+  },
+  {
+    "surah": 10,
+    "nameAr": "يونس",
+    "nameEn": "Yūnus",
+    "revelationPlace": "Meccan",
+    "ayahCount": 109
+  },
+  {
+    "surah": 11,
+    "nameAr": "هود",
+    "nameEn": "Hūd",
+    "revelationPlace": "Meccan",
+    "ayahCount": 123
+  },
+  {
+    "surah": 12,
+    "nameAr": "يوسف",
+    "nameEn": "Yūsuf",
+    "revelationPlace": "Meccan",
+    "ayahCount": 111
+  },
+  {
+    "surah": 13,
+    "nameAr": "الرعد",
+    "nameEn": "Ar-Raʿd",
+    "revelationPlace": "Medinan",
+    "ayahCount": 43
+  },
+  {
+    "surah": 14,
+    "nameAr": "إبراهيم",
+    "nameEn": "Ibrāhīm",
+    "revelationPlace": "Meccan",
+    "ayahCount": 52
+  },
+  {
+    "surah": 15,
+    "nameAr": "الحجر",
+    "nameEn": "Al-Ḥijr",
+    "revelationPlace": "Meccan",
+    "ayahCount": 99
+  },
+  {
+    "surah": 16,
+    "nameAr": "النحل",
+    "nameEn": "An-Naḥl",
+    "revelationPlace": "Meccan",
+    "ayahCount": 128
+  },
+  {
+    "surah": 17,
+    "nameAr": "الإسراء",
+    "nameEn": "Al-Isrā",
+    "revelationPlace": "Meccan",
+    "ayahCount": 111
+  },
+  {
+    "surah": 18,
+    "nameAr": "الكهف",
+    "nameEn": "Al-Kahf",
+    "revelationPlace": "Meccan",
+    "ayahCount": 110
+  },
+  {
+    "surah": 19,
+    "nameAr": "مريم",
+    "nameEn": "Maryam",
+    "revelationPlace": "Meccan",
+    "ayahCount": 98
+  },
+  {
+    "surah": 20,
+    "nameAr": "طه",
+    "nameEn": "Ṭā Hā",
+    "revelationPlace": "Meccan",
+    "ayahCount": 135
+  },
+  {
+    "surah": 21,
+    "nameAr": "الأنبياء",
+    "nameEn": "Al-Anbiyā",
+    "revelationPlace": "Meccan",
+    "ayahCount": 112
+  },
+  {
+    "surah": 22,
+    "nameAr": "الحج",
+    "nameEn": "Al-Ḥajj",
+    "revelationPlace": "Medinan",
+    "ayahCount": 78
+  },
+  {
+    "surah": 23,
+    "nameAr": "المؤمنون",
+    "nameEn": "Al-Muʾminūn",
+    "revelationPlace": "Meccan",
+    "ayahCount": 118
+  },
+  {
+    "surah": 24,
+    "nameAr": "النور",
+    "nameEn": "An-Nūr",
+    "revelationPlace": "Medinan",
+    "ayahCount": 64
+  },
+  {
+    "surah": 25,
+    "nameAr": "الفرقان",
+    "nameEn": "Al-Furqān",
+    "revelationPlace": "Meccan",
+    "ayahCount": 77
+  },
+  {
+    "surah": 26,
+    "nameAr": "الشعراء",
+    "nameEn": "Ash-Shuʿarā",
+    "revelationPlace": "Meccan",
+    "ayahCount": 227
+  },
+  {
+    "surah": 27,
+    "nameAr": "النمل",
+    "nameEn": "An-Naml",
+    "revelationPlace": "Meccan",
+    "ayahCount": 93
+  },
+  {
+    "surah": 28,
+    "nameAr": "القصص",
+    "nameEn": "Al-Qaṣaṣ",
+    "revelationPlace": "Meccan",
+    "ayahCount": 88
+  },
+  {
+    "surah": 29,
+    "nameAr": "العنكبوت",
+    "nameEn": "Al-ʿAnkabūt",
+    "revelationPlace": "Meccan",
+    "ayahCount": 69
+  },
+  {
+    "surah": 30,
+    "nameAr": "الروم",
+    "nameEn": "Ar-Rūm",
+    "revelationPlace": "Meccan",
+    "ayahCount": 60
+  },
+  {
+    "surah": 31,
+    "nameAr": "لقمان",
+    "nameEn": "Luqmān",
+    "revelationPlace": "Meccan",
+    "ayahCount": 34
+  },
+  {
+    "surah": 32,
+    "nameAr": "السجدة",
+    "nameEn": "As-Sajdah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 30
+  },
+  {
+    "surah": 33,
+    "nameAr": "الأحزاب",
+    "nameEn": "Al-Aḥzāb",
+    "revelationPlace": "Medinan",
+    "ayahCount": 73
+  },
+  {
+    "surah": 34,
+    "nameAr": "سبأ",
+    "nameEn": "Sabaʾ",
+    "revelationPlace": "Meccan",
+    "ayahCount": 54
+  },
+  {
+    "surah": 35,
+    "nameAr": "فاطر",
+    "nameEn": "Fāṭir",
+    "revelationPlace": "Meccan",
+    "ayahCount": 45
+  },
+  {
+    "surah": 36,
+    "nameAr": "يس",
+    "nameEn": "Yā Sīn",
+    "revelationPlace": "Meccan",
+    "ayahCount": 83
+  },
+  {
+    "surah": 37,
+    "nameAr": "الصافات",
+    "nameEn": "Aṣ-Ṣāffāt",
+    "revelationPlace": "Meccan",
+    "ayahCount": 182
+  },
+  {
+    "surah": 38,
+    "nameAr": "ص",
+    "nameEn": "Ṣād",
+    "revelationPlace": "Meccan",
+    "ayahCount": 88
+  },
+  {
+    "surah": 39,
+    "nameAr": "الزمر",
+    "nameEn": "Az-Zumar",
+    "revelationPlace": "Meccan",
+    "ayahCount": 75
+  },
+  {
+    "surah": 40,
+    "nameAr": "غافر",
+    "nameEn": "Ghāfir",
+    "revelationPlace": "Meccan",
+    "ayahCount": 85
+  },
+  {
+    "surah": 41,
+    "nameAr": "فصلت",
+    "nameEn": "Fuṣṣilat",
+    "revelationPlace": "Meccan",
+    "ayahCount": 54
+  },
+  {
+    "surah": 42,
+    "nameAr": "الشورى",
+    "nameEn": "Ash-Shūrā",
+    "revelationPlace": "Meccan",
+    "ayahCount": 53
+  },
+  {
+    "surah": 43,
+    "nameAr": "الزخرف",
+    "nameEn": "Az-Zukhruf",
+    "revelationPlace": "Meccan",
+    "ayahCount": 89
+  },
+  {
+    "surah": 44,
+    "nameAr": "الدخان",
+    "nameEn": "Ad-Dukhān",
+    "revelationPlace": "Meccan",
+    "ayahCount": 59
+  },
+  {
+    "surah": 45,
+    "nameAr": "الجاثية",
+    "nameEn": "Al-Jāthiyah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 37
+  },
+  {
+    "surah": 46,
+    "nameAr": "الأحقاف",
+    "nameEn": "Al-Aḥqāf",
+    "revelationPlace": "Meccan",
+    "ayahCount": 35
+  },
+  {
+    "surah": 47,
+    "nameAr": "محمد",
+    "nameEn": "Muḥammad",
+    "revelationPlace": "Medinan",
+    "ayahCount": 38
+  },
+  {
+    "surah": 48,
+    "nameAr": "الفتح",
+    "nameEn": "Al-Fatḥ",
+    "revelationPlace": "Medinan",
+    "ayahCount": 29
+  },
+  {
+    "surah": 49,
+    "nameAr": "الحجرات",
+    "nameEn": "Al-Ḥujurāt",
+    "revelationPlace": "Medinan",
+    "ayahCount": 18
+  },
+  {
+    "surah": 50,
+    "nameAr": "ق",
+    "nameEn": "Qāf",
+    "revelationPlace": "Meccan",
+    "ayahCount": 45
+  },
+  {
+    "surah": 51,
+    "nameAr": "الذاريات",
+    "nameEn": "Adh-Dhāriyāt",
+    "revelationPlace": "Meccan",
+    "ayahCount": 60
+  },
+  {
+    "surah": 52,
+    "nameAr": "الطور",
+    "nameEn": "Aṭ-Ṭūr",
+    "revelationPlace": "Meccan",
+    "ayahCount": 49
+  },
+  {
+    "surah": 53,
+    "nameAr": "النجم",
+    "nameEn": "An-Najm",
+    "revelationPlace": "Meccan",
+    "ayahCount": 62
+  },
+  {
+    "surah": 54,
+    "nameAr": "القمر",
+    "nameEn": "Al-Qamar",
+    "revelationPlace": "Meccan",
+    "ayahCount": 55
+  },
+  {
+    "surah": 55,
+    "nameAr": "الرحمن",
+    "nameEn": "Ar-Raḥmān",
+    "revelationPlace": "Medinan",
+    "ayahCount": 78
+  },
+  {
+    "surah": 56,
+    "nameAr": "الواقعة",
+    "nameEn": "Al-Wāqiʿah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 96
+  },
+  {
+    "surah": 57,
+    "nameAr": "الحديد",
+    "nameEn": "Al-Ḥadīd",
+    "revelationPlace": "Medinan",
+    "ayahCount": 29
+  },
+  {
+    "surah": 58,
+    "nameAr": "المجادلة",
+    "nameEn": "Al-Mujādilah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 22
+  },
+  {
+    "surah": 59,
+    "nameAr": "الحشر",
+    "nameEn": "Al-Ḥashr",
+    "revelationPlace": "Medinan",
+    "ayahCount": 24
+  },
+  {
+    "surah": 60,
+    "nameAr": "الممتحنة",
+    "nameEn": "Al-Mumtaḥanah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 13
+  },
+  {
+    "surah": 61,
+    "nameAr": "الصف",
+    "nameEn": "Aṣ-Ṣaff",
+    "revelationPlace": "Medinan",
+    "ayahCount": 14
+  },
+  {
+    "surah": 62,
+    "nameAr": "الجمعة",
+    "nameEn": "Al-Jumuʿah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 11
+  },
+  {
+    "surah": 63,
+    "nameAr": "المنافقون",
+    "nameEn": "Al-Munāfiqūn",
+    "revelationPlace": "Medinan",
+    "ayahCount": 11
+  },
+  {
+    "surah": 64,
+    "nameAr": "التغابن",
+    "nameEn": "At-Taghābun",
+    "revelationPlace": "Medinan",
+    "ayahCount": 18
+  },
+  {
+    "surah": 65,
+    "nameAr": "الطلاق",
+    "nameEn": "Aṭ-Ṭalāq",
+    "revelationPlace": "Medinan",
+    "ayahCount": 12
+  },
+  {
+    "surah": 66,
+    "nameAr": "التحريم",
+    "nameEn": "At-Taḥrīm",
+    "revelationPlace": "Medinan",
+    "ayahCount": 12
+  },
+  {
+    "surah": 67,
+    "nameAr": "الملك",
+    "nameEn": "Al-Mulk",
+    "revelationPlace": "Meccan",
+    "ayahCount": 30
+  },
+  {
+    "surah": 68,
+    "nameAr": "القلم",
+    "nameEn": "Al-Qalam",
+    "revelationPlace": "Meccan",
+    "ayahCount": 52
+  },
+  {
+    "surah": 69,
+    "nameAr": "الحاقة",
+    "nameEn": "Al-Ḥāqqah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 52
+  },
+  {
+    "surah": 70,
+    "nameAr": "المعارج",
+    "nameEn": "Al-Maʿārij",
+    "revelationPlace": "Meccan",
+    "ayahCount": 44
+  },
+  {
+    "surah": 71,
+    "nameAr": "نوح",
+    "nameEn": "Nūḥ",
+    "revelationPlace": "Meccan",
+    "ayahCount": 28
+  },
+  {
+    "surah": 72,
+    "nameAr": "الجن",
+    "nameEn": "Al-Jinn",
+    "revelationPlace": "Meccan",
+    "ayahCount": 28
+  },
+  {
+    "surah": 73,
+    "nameAr": "المزمل",
+    "nameEn": "Al-Muzzammil",
+    "revelationPlace": "Meccan",
+    "ayahCount": 20
+  },
+  {
+    "surah": 74,
+    "nameAr": "المدثر",
+    "nameEn": "Al-Muddaththir",
+    "revelationPlace": "Meccan",
+    "ayahCount": 56
+  },
+  {
+    "surah": 75,
+    "nameAr": "القيامة",
+    "nameEn": "Al-Qiyāmah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 40
+  },
+  {
+    "surah": 76,
+    "nameAr": "الإنسان",
+    "nameEn": "Al-Insān",
+    "revelationPlace": "Medinan",
+    "ayahCount": 31
+  },
+  {
+    "surah": 77,
+    "nameAr": "المرسلات",
+    "nameEn": "Al-Mursalāt",
+    "revelationPlace": "Meccan",
+    "ayahCount": 50
+  },
+  {
+    "surah": 78,
+    "nameAr": "النبأ",
+    "nameEn": "An-Nabaʾ",
+    "revelationPlace": "Meccan",
+    "ayahCount": 40
+  },
+  {
+    "surah": 79,
+    "nameAr": "النازعات",
+    "nameEn": "An-Nāziʿāt",
+    "revelationPlace": "Meccan",
+    "ayahCount": 46
+  },
+  {
+    "surah": 80,
+    "nameAr": "عبس",
+    "nameEn": "ʿAbasa",
+    "revelationPlace": "Meccan",
+    "ayahCount": 42
+  },
+  {
+    "surah": 81,
+    "nameAr": "التكوير",
+    "nameEn": "At-Takwīr",
+    "revelationPlace": "Meccan",
+    "ayahCount": 29
+  },
+  {
+    "surah": 82,
+    "nameAr": "الإنفطار",
+    "nameEn": "Al-Infiṭār",
+    "revelationPlace": "Meccan",
+    "ayahCount": 19
+  },
+  {
+    "surah": 83,
+    "nameAr": "المطففين",
+    "nameEn": "Al-Muṭaffifīn",
+    "revelationPlace": "Meccan",
+    "ayahCount": 36
+  },
+  {
+    "surah": 84,
+    "nameAr": "الإنشقاق",
+    "nameEn": "Al-Inshiqāq",
+    "revelationPlace": "Meccan",
+    "ayahCount": 25
+  },
+  {
+    "surah": 85,
+    "nameAr": "البروج",
+    "nameEn": "Al-Burūj",
+    "revelationPlace": "Meccan",
+    "ayahCount": 22
+  },
+  {
+    "surah": 86,
+    "nameAr": "الطارق",
+    "nameEn": "Aṭ-Ṭāriq",
+    "revelationPlace": "Meccan",
+    "ayahCount": 17
+  },
+  {
+    "surah": 87,
+    "nameAr": "الأعلى",
+    "nameEn": "Al-Aʿlā",
+    "revelationPlace": "Meccan",
+    "ayahCount": 19
+  },
+  {
+    "surah": 88,
+    "nameAr": "الغاشية",
+    "nameEn": "Al-Ghāshiyah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 26
+  },
+  {
+    "surah": 89,
+    "nameAr": "الفجر",
+    "nameEn": "Al-Fajr",
+    "revelationPlace": "Meccan",
+    "ayahCount": 30
+  },
+  {
+    "surah": 90,
+    "nameAr": "البلد",
+    "nameEn": "Al-Balad",
+    "revelationPlace": "Meccan",
+    "ayahCount": 20
+  },
+  {
+    "surah": 91,
+    "nameAr": "الشمس",
+    "nameEn": "Ash-Shams",
+    "revelationPlace": "Meccan",
+    "ayahCount": 15
+  },
+  {
+    "surah": 92,
+    "nameAr": "الليل",
+    "nameEn": "Al-Layl",
+    "revelationPlace": "Meccan",
+    "ayahCount": 21
+  },
+  {
+    "surah": 93,
+    "nameAr": "الضحى",
+    "nameEn": "Aḍ-Ḍuḥā",
+    "revelationPlace": "Meccan",
+    "ayahCount": 11
+  },
+  {
+    "surah": 94,
+    "nameAr": "الشرح",
+    "nameEn": "Ash-Sharḥ",
+    "revelationPlace": "Meccan",
+    "ayahCount": 8
+  },
+  {
+    "surah": 95,
+    "nameAr": "التين",
+    "nameEn": "At-Tīn",
+    "revelationPlace": "Meccan",
+    "ayahCount": 8
+  },
+  {
+    "surah": 96,
+    "nameAr": "العلق",
+    "nameEn": "Al-ʿAlaq",
+    "revelationPlace": "Meccan",
+    "ayahCount": 19
+  },
+  {
+    "surah": 97,
+    "nameAr": "القدر",
+    "nameEn": "Al-Qadr",
+    "revelationPlace": "Meccan",
+    "ayahCount": 5
+  },
+  {
+    "surah": 98,
+    "nameAr": "البينة",
+    "nameEn": "Al-Bayyinah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 8
+  },
+  {
+    "surah": 99,
+    "nameAr": "الزلزلة",
+    "nameEn": "Az-Zalzalah",
+    "revelationPlace": "Medinan",
+    "ayahCount": 8
+  },
+  {
+    "surah": 100,
+    "nameAr": "العاديات",
+    "nameEn": "Al-ʿĀdiyāt",
+    "revelationPlace": "Meccan",
+    "ayahCount": 11
+  },
+  {
+    "surah": 101,
+    "nameAr": "القارعة",
+    "nameEn": "Al-Qāriʿah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 11
+  },
+  {
+    "surah": 102,
+    "nameAr": "التكاثر",
+    "nameEn": "At-Takāthur",
+    "revelationPlace": "Meccan",
+    "ayahCount": 8
+  },
+  {
+    "surah": 103,
+    "nameAr": "العصر",
+    "nameEn": "Al-ʿAṣr",
+    "revelationPlace": "Meccan",
+    "ayahCount": 3
+  },
+  {
+    "surah": 104,
+    "nameAr": "الهمزة",
+    "nameEn": "Al-Humazah",
+    "revelationPlace": "Meccan",
+    "ayahCount": 9
+  },
+  {
+    "surah": 105,
+    "nameAr": "الفيل",
+    "nameEn": "Al-Fīl",
+    "revelationPlace": "Meccan",
+    "ayahCount": 5
+  },
+  {
+    "surah": 106,
+    "nameAr": "قريش",
+    "nameEn": "Quraysh",
+    "revelationPlace": "Meccan",
+    "ayahCount": 4
+  },
+  {
+    "surah": 107,
+    "nameAr": "الماعون",
+    "nameEn": "Al-Māʿūn",
+    "revelationPlace": "Meccan",
+    "ayahCount": 7
+  },
+  {
+    "surah": 108,
+    "nameAr": "الكوثر",
+    "nameEn": "Al-Kawthar",
+    "revelationPlace": "Meccan",
+    "ayahCount": 3
+  },
+  {
+    "surah": 109,
+    "nameAr": "الكافرون",
+    "nameEn": "Al-Kāfirūn",
+    "revelationPlace": "Meccan",
+    "ayahCount": 6
+  },
+  {
+    "surah": 110,
+    "nameAr": "النصر",
+    "nameEn": "An-Naṣr",
+    "revelationPlace": "Medinan",
+    "ayahCount": 3
+  },
+  {
+    "surah": 111,
+    "nameAr": "المسد",
+    "nameEn": "Al-Masad",
+    "revelationPlace": "Meccan",
+    "ayahCount": 5
+  },
+  {
+    "surah": 112,
+    "nameAr": "الإخلاص",
+    "nameEn": "Al-Ikhlāṣ",
+    "revelationPlace": "Meccan",
+    "ayahCount": 4
+  },
+  {
+    "surah": 113,
+    "nameAr": "الفلق",
+    "nameEn": "Al-Falaq",
+    "revelationPlace": "Meccan",
+    "ayahCount": 5
+  },
+  {
+    "surah": 114,
+    "nameAr": "الناس",
+    "nameEn": "An-Nās",
+    "revelationPlace": "Meccan",
+    "ayahCount": 6
+  }
+]

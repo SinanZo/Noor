@@ -1,0 +1,15 @@
+{
+  "aiAssistantTitle": "IslamVerse AI - Islamic Assistant",
+  "aiAssistantDescription": "Ask questions about Islam with AI-powered answers backed by Quran and Hadith",
+  "aiAssistantHeading": "IslamVerse AI Assistant",
+  "aiAssistantSubheading": "Ask any question about Islam, and get verified answers with citations",
+  "askQuestion": "Ask a Question",
+  "questionPlaceholder": "Enter your question about Islam...",
+  "getAnswer": "Get Answer",
+  "sources": "Sources",
+  "references": "References",
+  "verifiedAnswer": "Verified Answer",
+  "scholarReviewed": "Scholar Reviewed",
+  "queryHistory": "Query History",
+  "clearHistory": "Clear History"
+}

@@ -1,0 +1,19 @@
+{
+  "quranHubTitle": "QuranHub - Quran Reader",
+  "quranHubDescription": "Read and explore the Holy Quran with translations, Tafsir, and audio recitations",
+  "quranHubHeading": "QuranHub - The Noble Quran",
+  "selectSurahPrompt": "Please select a Surah from the list to begin reading",
+  "surahList": "Surah List",
+  "ayah": "Ayah",
+  "translation": "Translation",
+  "tafsir": "Tafsir",
+  "recitation": "Recitation",
+  "audioPlayer": "Audio Player",
+  "videoPlayer": "Video Player",
+  "bookmarkVerse": "Bookmark Verse",
+  "shareVerse": "Share Verse",
+  "aiReflection": "AI Reflection",
+  "searchQuran": "Search Quran",
+  "searchByTopic": "Search by Topic",
+  "searchByVerse": "Search by Verse"
+}

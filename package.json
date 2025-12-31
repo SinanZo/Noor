@@ -1,0 +1,34 @@
+{
+  "name": "noor-superapp",
+  "version": "1.0.0",
+  "description": "Islamic SuperApp - Your Companion in Faith, Knowledge & Life",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev",
+    "dev:client": "pnpm --filter client dev",
+    "dev:server": "pnpm --filter server dev",
+    "dev:mobile": "pnpm --filter mobile start",
+    "build": "pnpm -r run build",
+    "build:client": "pnpm --filter client build",
+    "build:server": "pnpm --filter server build",
+    "start:client": "pnpm --filter client start",
+    "start:server": "pnpm --filter server start",
+    "install:all": "pnpm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "islamic",
+    "quran",
+    "hadith",
+    "prayer",
+    "muslim",
+    "halal",
+    "superapp"
+  ],
+  "author": "Noor SuperApp Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
